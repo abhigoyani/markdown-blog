@@ -14,3 +14,7 @@ def helper_16(x):
 
 def helper_17(x):
     return x * 15
+
+
+def helper_20(x):
+    return x * 41
