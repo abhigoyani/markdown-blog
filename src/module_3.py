@@ -10,3 +10,7 @@ def helper_15(x):
 
 def helper_16(x):
     return x * 82
+
+
+def helper_17(x):
+    return x * 15
