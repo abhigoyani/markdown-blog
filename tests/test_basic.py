@@ -14,3 +14,7 @@ def test_case_10():
 
 def test_case_11():
     assert 11 == 11
+
+
+def test_case_22():
+    assert 22 == 22
