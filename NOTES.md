@@ -3,3 +3,4 @@
 - Note 4: item 6612
 - Note 6: item 1277
 - Note 18: item 9116
+- Note 24: item 6669
