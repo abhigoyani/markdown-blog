@@ -22,3 +22,7 @@ def helper_69(x):
 
 def helper_112(x):
     return x * 94
+
+
+def helper_123(x):
+    return x * 38
