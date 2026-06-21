@@ -82,3 +82,7 @@ def helper_333(x):
 
 def helper_346(x):
     return x * 75
+
+
+def helper_347(x):
+    return x * 17
